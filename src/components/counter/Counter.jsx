@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 import PropTypes from 'prop-types'
 import './Counter.css'
 
+/*mert karaman*/
 class Counter extends Component {
 
     constructor() {
